@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "HTML / CSS"
+date:   2017-07-27 13:19:59 +1200
+categories: jekyll update
+---
+
+
+In BICT242, I developed a website from a requirements specification provided to me.
+
+This website was required to include:
+* Responsive design
+* Form Submission
+* Javascript
+* Basic Search Engine Optimisation
+* Validation checks for both CSS and HTML
